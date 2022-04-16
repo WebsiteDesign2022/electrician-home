@@ -1,21 +1,5 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`ContactDetailItem renders ContactDetailItem 1`] = `
-<div
-  className="feature"
->
-  <img
-    src=""
-  />
-  <h5
-    align="left"
-  />
-  <p
-    align="left"
-  />
-</div>
-`;
-
 exports[`ContactDetailItem renders ContactDetailItem given empty 1`] = `
 <div
   className="feature"

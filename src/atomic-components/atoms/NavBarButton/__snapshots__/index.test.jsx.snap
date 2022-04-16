@@ -2,7 +2,7 @@
 
 exports[`NavBarButton renders NavBarButton 1`] = `
 <a
-  className="nav-link"
+  className="nav-link nav-link"
   href="#"
   onClick={[Function]}
   onKeyDown={[Function]}

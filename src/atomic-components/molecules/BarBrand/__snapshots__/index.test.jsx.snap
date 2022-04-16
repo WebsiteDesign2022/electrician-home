@@ -2,7 +2,7 @@
 
 exports[`BarBrand renders BarBrand 1`] = `
 <span
-  className="px-4  navbar-brand"
+  className="px-4 navbar-brand navbar-brand"
 >
   author mark
 </span>
