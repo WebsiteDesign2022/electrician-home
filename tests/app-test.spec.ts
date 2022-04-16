@@ -2,7 +2,7 @@ import { test, expect, Page } from '@playwright/test';
 
 test.beforeEach(async ({ page }) => {
   // Please change to correct url.
-  await page.goto('http://localhost:50252');
+  await page.goto('http://localhost:55046');
 });
 
 test.describe('Top Bar', () => {
