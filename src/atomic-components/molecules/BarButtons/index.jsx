@@ -38,7 +38,7 @@ const navBarButtons = [
 ];
 
 const BarButtons = () => (
-    <Nav className="justify-content-end navbar-expand-md">
+    <Nav className="justify-content-end collapse navbar-collapse navbar-collapse-md">
         { navBarButtons.map(({ link, displayName }) => <NavBarButton key={link} link={link} displayName={displayName} />) }
     </Nav>
 );

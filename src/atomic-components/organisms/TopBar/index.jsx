@@ -2,20 +2,19 @@ import React from 'react';
 import { Navbar, Container } from 'react-bootstrap';
 import BarBrand from '../../molecules/BarBrand';
 import BarButtons from '../../molecules/BarButtons';
+import './index.scss';
 
 const TopBar = () => (
-  <Navbar bg="light" variant="light">
-    <Container className=".navbar-expand-lm">
+  <Navbar collapseOnSelect class="navbar navbar-expand-sm" bg="light" variant="light">
+    <Container>
 
       <BarBrand brandName={"Electrician Home"}/>
-      
-      <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span className="navbar-toggler-icon"></span>
-      </button>
 
-      <div className="collapse navbar-collapse" id="navbarNav">
+      <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+
+      <Navbar.Collapse id="responsive-navbar-nav">
         <BarButtons />
-      </div>
+      </Navbar.Collapse>
 
     </Container>
   </Navbar>
