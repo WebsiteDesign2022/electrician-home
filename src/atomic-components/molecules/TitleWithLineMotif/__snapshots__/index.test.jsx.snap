@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TitleWithLineMotif renders TitleWithLineMotif 1`] = `
+<div
+  className="border-bottom align-content-start border-dark align-content-start col-3"
+>
+  <div
+    className="arrow-top-left-black"
+  />
+  <h3
+    align="left"
+  />
+</div>
+`;

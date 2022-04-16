@@ -1,0 +1,164 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testimonials renders Testimonials given empty state 1`] = `
+<div
+  className="testimonials"
+>
+  <div
+    className="border-bottom align-content-start border-dark align-content-start col-3"
+  >
+    <div
+      className="arrow-top-left-black"
+    />
+    <h3
+      align="left"
+    >
+      Testimonials
+    </h3>
+  </div>
+  <div
+    className="row row-cols-1 row-cols-md-3 gx-4 py-5 list"
+  />
+</div>
+`;
+
+exports[`Testimonials renders Testimonials given non-empty state 1`] = `
+<div
+  className="testimonials"
+>
+  <div
+    className="border-bottom align-content-start border-dark align-content-start col-3"
+  >
+    <div
+      className="arrow-top-left-black"
+    />
+    <h3
+      align="left"
+    >
+      Testimonials
+    </h3>
+  </div>
+  <div
+    className="row row-cols-1 row-cols-md-3 gx-4 py-5 list"
+  >
+    <div
+      className="col d-flex align-items-start px-6 gx-6 bg-white testimonial"
+    >
+      <div
+        className="m-12"
+      >
+        <p
+          align="left"
+          className="testimonial-content"
+        >
+          testimonial description 1
+        </p>
+        <h6
+          align="left"
+        >
+          testimonial name 1
+        </h6>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Testimonials renders Testimonials given non-empty state 2`] = `
+<div
+  className="testimonials"
+>
+  <div
+    className="border-bottom align-content-start border-dark align-content-start col-3"
+  >
+    <div
+      className="arrow-top-left-black"
+    />
+    <h3
+      align="left"
+    >
+      Testimonials
+    </h3>
+  </div>
+  <div
+    className="row row-cols-1 row-cols-md-3 gx-4 py-5 list"
+  >
+    <div
+      className="col d-flex align-items-start px-6 gx-6 bg-white testimonial"
+    >
+      <div
+        className="m-12"
+      >
+        <p
+          align="left"
+          className="testimonial-content"
+        >
+          testimonial description 1
+        </p>
+        <h6
+          align="left"
+        >
+          testimonial name 1
+        </h6>
+      </div>
+    </div>
+    <div
+      className="col d-flex align-items-start px-6 gx-6 bg-white testimonial"
+    >
+      <div
+        className="m-12"
+      >
+        <p
+          align="left"
+          className="testimonial-content"
+        >
+          testimonial description 2
+        </p>
+        <h6
+          align="left"
+        >
+          testimonial name 2
+        </h6>
+      </div>
+    </div>
+    <div
+      className="col d-flex align-items-start px-6 gx-6 bg-white testimonial"
+    >
+      <div
+        className="m-12"
+      >
+        <p
+          align="left"
+          className="testimonial-content"
+        >
+          testimonial description 3
+        </p>
+        <h6
+          align="left"
+        >
+          testimonial name 3
+        </h6>
+      </div>
+    </div>
+    <div
+      className="col d-flex align-items-start px-6 gx-6 bg-white testimonial"
+    >
+      <div
+        className="m-12"
+      >
+        <p
+          align="left"
+          className="testimonial-content"
+        >
+          testimonial description 4
+        </p>
+        <h6
+          align="left"
+        >
+          testimonial name 4
+        </h6>
+      </div>
+    </div>
+  </div>
+</div>
+`;

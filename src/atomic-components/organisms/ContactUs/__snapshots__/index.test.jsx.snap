@@ -1,0 +1,124 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ContactUs renders ContactUs 1`] = `
+<div
+  className="row contact-us"
+>
+  <div
+    className="col-md-8 row form-group"
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="col-sm-6"
+      >
+        <input
+          aria-label="Name"
+          className="form-control contact-input"
+          id="name"
+          placeholder="Name"
+          type="text"
+        />
+      </div>
+      <div
+        className="col-sm-6"
+      >
+        <input
+          aria-label="Email Address"
+          className="form-control contact-input"
+          id="email-address"
+          placeholder="Email"
+          type="text"
+        />
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col-md-12"
+      >
+        <textarea
+          className="form-control contact-input"
+          id="message"
+          placeholder="Message"
+          rows="5"
+        />
+      </div>
+    </div>
+    <div
+      className="row justify-content-end"
+    >
+      <div
+        className="col-9"
+      />
+      <div
+        className="col-3"
+      >
+        <button
+          className="btn rounded-0 button-right submit"
+          type="button"
+        >
+          SUBMIT
+        </button>
+      </div>
+    </div>
+  </div>
+  <div
+    className="col-md-4"
+  >
+    <div
+      className="feature"
+    >
+      <img
+        src=""
+      />
+      <h5
+        align="left"
+      >
+        Address
+      </h5>
+      <p
+        align="left"
+      >
+        1234 Divi St., #1000, San Francisco, CA 29362
+      </p>
+    </div>
+    <div
+      className="feature"
+    >
+      <img
+        src=""
+      />
+      <h5
+        align="left"
+      >
+        Phone
+      </h5>
+      <p
+        align="left"
+      >
+        (346) 234 5675
+      </p>
+    </div>
+    <div
+      className="feature"
+    >
+      <img
+        src=""
+      />
+      <h5
+        align="left"
+      >
+        Email
+      </h5>
+      <p
+        align="left"
+      >
+        info@divelectric.com
+      </p>
+    </div>
+  </div>
+</div>
+`;

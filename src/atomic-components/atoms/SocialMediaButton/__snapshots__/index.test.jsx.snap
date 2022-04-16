@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SocialMediaButton renders SocialMediaButton 1`] = `
+<a
+  className="nav-link active"
+  href="www.facebook.com"
+>
+  Facebook
+</a>
+`;

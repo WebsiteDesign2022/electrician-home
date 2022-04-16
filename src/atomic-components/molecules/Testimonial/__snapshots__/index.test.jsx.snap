@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testimonial renders an empty Testimonial 1`] = `
+<div
+  className="col d-flex align-items-start px-6 gx-6 bg-white testimonial"
+>
+  <div
+    className="m-12"
+  >
+    <p
+      align="left"
+      className="testimonial-content"
+    />
+    <h6
+      align="left"
+    />
+  </div>
+</div>
+`;
+
+exports[`Testimonial renders an empty Testimonial 2`] = `
+<div
+  className="col d-flex align-items-start px-6 gx-6 bg-white testimonial"
+>
+  <div
+    className="m-12"
+  >
+    <p
+      align="left"
+      className="testimonial-content"
+    >
+      testimonial-description
+    </p>
+    <h6
+      align="left"
+    >
+      testimonial-name
+    </h6>
+  </div>
+</div>
+`;

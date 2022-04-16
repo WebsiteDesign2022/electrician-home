@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FeatureGrid renders FeatureGrid given empty 1`] = `
+<div
+  className="bg-black"
+>
+  <div
+    className="container px-4 py-5"
+    id="hanging-icons"
+  >
+    <div
+      className="row g-4 py-5 row-cols-1 row-cols-sm-3"
+    />
+  </div>
+</div>
+`;
+
+exports[`FeatureGrid renders FeatureGrid given multiple feature items 1`] = `
+<div
+  className="bg-black"
+>
+  <div
+    className="container px-4 py-5"
+    id="hanging-icons"
+  >
+    <div
+      className="row g-4 py-5 row-cols-1 row-cols-sm-3"
+    >
+      <div
+        className="col d-flex align-items-start"
+      >
+        <div
+          className="icon-square flex-shrink-0 me-3 py-1 arrow"
+        >
+          &gt;&gt;
+        </div>
+        <div
+          className="align-items-start"
+        >
+          <h2
+            align="left"
+            className="title"
+          >
+            feature-title 1
+          </h2>
+          <p
+            align="left"
+            className="description"
+          >
+            feature-description 1
+          </p>
+        </div>
+      </div>
+      <div
+        className="col d-flex align-items-start"
+      >
+        <div
+          className="icon-square flex-shrink-0 me-3 py-1 arrow"
+        >
+          &gt;&gt;
+        </div>
+        <div
+          className="align-items-start"
+        >
+          <h2
+            align="left"
+            className="title"
+          >
+            feature-title 2
+          </h2>
+          <p
+            align="left"
+            className="description"
+          >
+            feature-description 2
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

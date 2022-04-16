@@ -1,16 +1,27 @@
 import React from 'react';
+
 import './PageTemplate.css';
 
-const PageTemplate = ({topBar, frontPageHero}) => {
-  return (
-    <React.Fragment>
+const PageTemplate = ({topBar, frontPageHero, featureGrid, sectionDivider, aboutUs, testimonials, contactUs, bottomBar}) => (
+  <React.Fragment>
+    
+    {topBar}
 
-      {topBar}
+    {frontPageHero}
 
-      {frontPageHero}
+    {featureGrid}
 
-    </React.Fragment>
-  );
-}
+    {sectionDivider}
+
+    {aboutUs}
+
+    {testimonials}
+
+    {contactUs}
+
+    {bottomBar}
+
+  </React.Fragment>
+);
 
 export default PageTemplate;

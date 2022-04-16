@@ -1,0 +1,710 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HomePage renders HomePage 1`] = `
+<div
+  className=""
+>
+  <nav
+    className="navbar navbar-expand navbar-light bg-light"
+  >
+    <div
+      className=".navbar-expand-lm container"
+    >
+      <span
+        className="px-4  navbar-brand"
+      >
+        Electrician Home
+      </span>
+      <button
+        aria-controls="navbarNav"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+        className="navbar-toggler"
+        data-target="#navbarNav"
+        data-toggle="collapse"
+        type="button"
+      >
+        <span
+          className="navbar-toggler-icon"
+        />
+      </button>
+      <div
+        className="collapse navbar-collapse"
+        id="navbarNav"
+      >
+        <div
+          className="justify-content-end navbar-expand-md navbar-nav"
+          onKeyDown={[Function]}
+        >
+          <a
+            className="nav-link"
+            data-rr-ui-event-key="#home"
+            disabled={false}
+            href="#home"
+            onClick={[Function]}
+          >
+            Home
+          </a>
+          <a
+            className="nav-link"
+            data-rr-ui-event-key="#landing"
+            disabled={false}
+            href="#landing"
+            onClick={[Function]}
+          >
+            Landing
+          </a>
+          <a
+            className="nav-link"
+            data-rr-ui-event-key="#service"
+            disabled={false}
+            href="#service"
+            onClick={[Function]}
+          >
+            Service
+          </a>
+          <a
+            className="nav-link"
+            data-rr-ui-event-key="#about"
+            disabled={false}
+            href="#about"
+            onClick={[Function]}
+          >
+            About
+          </a>
+          <a
+            className="nav-link"
+            data-rr-ui-event-key="#contact"
+            disabled={false}
+            href="#contact"
+            onClick={[Function]}
+          >
+            Contact
+          </a>
+          <a
+            className="nav-link"
+            data-rr-ui-event-key="#services"
+            disabled={false}
+            href="#services"
+            onClick={[Function]}
+          >
+            Services
+          </a>
+          <a
+            className="nav-link"
+            data-rr-ui-event-key="#project"
+            disabled={false}
+            href="#project"
+            onClick={[Function]}
+          >
+            Project
+          </a>
+          <a
+            className="nav-link"
+            data-rr-ui-event-key="#portfolio"
+            disabled={false}
+            href="#portfolio"
+            onClick={[Function]}
+          >
+            Portfolio
+          </a>
+        </div>
+      </div>
+    </div>
+  </nav>
+  <div
+    className="col-xxl-8 px-4 py-5 bg-dark"
+  >
+    <div
+      className="row flex-lg-row-reverse align-items-center g-5 py-5"
+    >
+      <div
+        className="col-10 col-sm-8 col-lg-6"
+      >
+        <img
+          alt="Bootstrap Themes"
+          className="d-block mx-lg-auto img-fluid"
+          height="500"
+          loading="lazy"
+          src="bootstrap-themes.png"
+          width="700"
+        />
+      </div>
+      <div
+        className="col-lg-6 justify-content-left"
+      >
+        <div
+          className="arrow-top-left-orange"
+        />
+        <h1
+          className="display-5 lh-1 mb-3 text-light"
+        >
+          Electrical Contractor
+        </h1>
+        <h1
+          className="display-5 fw-bold lh-1 mb-3 text-light"
+        >
+          Licensed & Insured
+        </h1>
+        <div
+          className="d-grid gap-2 d-md-flex justify-content-md-start"
+        >
+          <button
+            className="btn btn-primary btn-lg px-10 me-md-2 rounded-0"
+            id="box-shadow-button-top-left"
+            type="button"
+          >
+            ABOUT US
+          </button>
+          <button
+            className="btn btn-light text-primary btn-lg px-4 rounded-0 box-shadow-bottom-right"
+            type="button"
+          >
+            CONTACT US
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="bg-black"
+  >
+    <div
+      className="container px-4 py-5"
+      id="hanging-icons"
+    >
+      <div
+        className="row g-4 py-5 row-cols-1 row-cols-sm-3"
+      >
+        <div
+          className="col d-flex align-items-start"
+        >
+          <div
+            className="icon-square flex-shrink-0 me-3 py-1 arrow"
+          >
+            &gt;&gt;
+          </div>
+          <div
+            className="align-items-start"
+          >
+            <h2
+              align="left"
+              className="title"
+            >
+              Cable Change
+            </h2>
+            <p
+              align="left"
+              className="description"
+            >
+              Vestibulum ac diam sit arret quam vehicular elementum sed sit arret dui. Lorem ipsum dolor sit amet. consectetur.
+            </p>
+          </div>
+        </div>
+        <div
+          className="col d-flex align-items-start"
+        >
+          <div
+            className="icon-square flex-shrink-0 me-3 py-1 arrow"
+          >
+            &gt;&gt;
+          </div>
+          <div
+            className="align-items-start"
+          >
+            <h2
+              align="left"
+              className="title"
+            >
+              Cable Change
+            </h2>
+            <p
+              align="left"
+              className="description"
+            >
+              Vestibulum ac diam sit arret quam vehicular elementum sed sit arret dui. Lorem ipsum dolor sit amet. consectetur.
+            </p>
+          </div>
+        </div>
+        <div
+          className="col d-flex align-items-start"
+        >
+          <div
+            className="icon-square flex-shrink-0 me-3 py-1 arrow"
+          >
+            &gt;&gt;
+          </div>
+          <div
+            className="align-items-start"
+          >
+            <h2
+              align="left"
+              className="title"
+            >
+              Cable Change
+            </h2>
+            <p
+              align="left"
+              className="description"
+            >
+              Vestibulum ac diam sit arret quam vehicular elementum sed sit arret dui. Lorem ipsum dolor sit amet. consectetur.
+            </p>
+          </div>
+        </div>
+        <div
+          className="col d-flex align-items-start"
+        >
+          <div
+            className="icon-square flex-shrink-0 me-3 py-1 arrow"
+          >
+            &gt;&gt;
+          </div>
+          <div
+            className="align-items-start"
+          >
+            <h2
+              align="left"
+              className="title"
+            >
+              Cable Change
+            </h2>
+            <p
+              align="left"
+              className="description"
+            >
+              Vestibulum ac diam sit arret quam vehicular elementum sed sit arret dui. Lorem ipsum dolor sit amet. consectetur.
+            </p>
+          </div>
+        </div>
+        <div
+          className="col d-flex align-items-start"
+        >
+          <div
+            className="icon-square flex-shrink-0 me-3 py-1 arrow"
+          >
+            &gt;&gt;
+          </div>
+          <div
+            className="align-items-start"
+          >
+            <h2
+              align="left"
+              className="title"
+            >
+              Cable Change
+            </h2>
+            <p
+              align="left"
+              className="description"
+            >
+              Vestibulum ac diam sit arret quam vehicular elementum sed sit arret dui. Lorem ipsum dolor sit amet. consectetur.
+            </p>
+          </div>
+        </div>
+        <div
+          className="col d-flex align-items-start"
+        >
+          <div
+            className="icon-square flex-shrink-0 me-3 py-1 arrow"
+          >
+            &gt;&gt;
+          </div>
+          <div
+            className="align-items-start"
+          >
+            <h2
+              align="left"
+              className="title"
+            >
+              Cable Change
+            </h2>
+            <p
+              align="left"
+              className="description"
+            >
+              Vestibulum ac diam sit arret quam vehicular elementum sed sit arret dui. Lorem ipsum dolor sit amet. consectetur.
+            </p>
+          </div>
+        </div>
+        <div
+          className="col d-flex align-items-start"
+        >
+          <div
+            className="icon-square flex-shrink-0 me-3 py-1 arrow"
+          >
+            &gt;&gt;
+          </div>
+          <div
+            className="align-items-start"
+          >
+            <h2
+              align="left"
+              className="title"
+            >
+              Cable Change
+            </h2>
+            <p
+              align="left"
+              className="description"
+            >
+              Vestibulum ac diam sit arret quam vehicular elementum sed sit arret dui. Lorem ipsum dolor sit amet. consectetur.
+            </p>
+          </div>
+        </div>
+        <div
+          className="col d-flex align-items-start"
+        >
+          <div
+            className="icon-square flex-shrink-0 me-3 py-1 arrow"
+          >
+            &gt;&gt;
+          </div>
+          <div
+            className="align-items-start"
+          >
+            <h2
+              align="left"
+              className="title"
+            >
+              Cable Change
+            </h2>
+            <p
+              align="left"
+              className="description"
+            >
+              Vestibulum ac diam sit arret quam vehicular elementum sed sit arret dui. Lorem ipsum dolor sit amet. consectetur.
+            </p>
+          </div>
+        </div>
+        <div
+          className="col d-flex align-items-start"
+        >
+          <div
+            className="icon-square flex-shrink-0 me-3 py-1 arrow"
+          >
+            &gt;&gt;
+          </div>
+          <div
+            className="align-items-start"
+          >
+            <h2
+              align="left"
+              className="title"
+            >
+              Cable Change
+            </h2>
+            <p
+              align="left"
+              className="description"
+            >
+              Vestibulum ac diam sit arret quam vehicular elementum sed sit arret dui. Lorem ipsum dolor sit amet. consectetur.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="container-fluid "
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="col-8 col-sm-7 col-md-8 bg-dark-section "
+      >
+        _
+      </div>
+      <div
+        className="col-4 col-sm-5 col-md-4 contact-us-div"
+      >
+        <button
+          className="btn btn-light text-primary px-4 rounded-0 box-shadow-bottom-right contact-us-btn"
+          type="button"
+        >
+          CONTACT US
+        </button>
+      </div>
+    </div>
+  </div>
+  <div
+    className="col-xxl-8 px-4 py-5 about-us"
+  >
+    <div
+      className="row flex-lg-row align-items-left g-5 py-5"
+    >
+      <div
+        className="col-lg-8"
+      >
+        <div>
+          <div
+            className="arrow-top-left-black"
+          />
+          <h1
+            align="left"
+            className="display-5 lh-1 mb-3 justify-content-end"
+          >
+            About Us & Why We are
+          </h1>
+          <h1
+            align="left"
+            className="display-5 fw-bold lh-1 mb-3 align-content-start justify-content-end"
+          >
+            The Best For the Job
+          </h1>
+        </div>
+        <p
+          align="left"
+          className="text-black"
+        >
+          Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus suscipit tortor eget felis porttitor volutpat. Donec rutrum congue leo eget malesuada. Nulla quis lorem ut libero malesuada feugiat. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. 
+        </p>
+      </div>
+      <div
+        className="col-lg-12"
+      >
+        <div
+          className="d-grid gap-2 d-md-flex justify-content-end"
+        >
+          <button
+            className="btn btn-dark btn-lg px-4 box-shadow-bottom rounded-0"
+            type="button"
+          >
+            More about Us →
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="testimonials"
+  >
+    <div
+      className="border-bottom align-content-start border-dark align-content-start col-3"
+    >
+      <div
+        className="arrow-top-left-black"
+      />
+      <h3
+        align="left"
+      >
+        Testimonials
+      </h3>
+    </div>
+    <div
+      className="row row-cols-1 row-cols-md-3 gx-4 py-5 list"
+    >
+      <div
+        className="col d-flex align-items-start px-6 gx-6 bg-white testimonial"
+      >
+        <div
+          className="m-12"
+        >
+          <p
+            align="left"
+            className="testimonial-content"
+          >
+            Lorem ipsum dolor sit amet. consectetur. Lorem ipsum dolor sit amet. consectetur. Lorem ipsum dolor sit amet. consectetur.
+          </p>
+          <h6
+            align="left"
+          >
+            John Smith
+          </h6>
+        </div>
+      </div>
+      <div
+        className="col d-flex align-items-start px-6 gx-6 bg-white testimonial"
+      >
+        <div
+          className="m-12"
+        >
+          <p
+            align="left"
+            className="testimonial-content"
+          >
+            Lorem ipsum dolor sit amet. consectetur. Lorem ipsum dolor sit amet. consectetur. Lorem ipsum dolor sit amet. consectetur.
+          </p>
+          <h6
+            align="left"
+          >
+            Jenny Crane
+          </h6>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="row contact-us"
+  >
+    <div
+      className="col-md-8 row form-group"
+    >
+      <div
+        className="row"
+      >
+        <div
+          className="col-sm-6"
+        >
+          <input
+            aria-label="Name"
+            className="form-control contact-input"
+            id="name"
+            placeholder="Name"
+            type="text"
+          />
+        </div>
+        <div
+          className="col-sm-6"
+        >
+          <input
+            aria-label="Email Address"
+            className="form-control contact-input"
+            id="email-address"
+            placeholder="Email"
+            type="text"
+          />
+        </div>
+      </div>
+      <div
+        className="row"
+      >
+        <div
+          className="col-md-12"
+        >
+          <textarea
+            className="form-control contact-input"
+            id="message"
+            placeholder="Message"
+            rows="5"
+          />
+        </div>
+      </div>
+      <div
+        className="row justify-content-end"
+      >
+        <div
+          className="col-9"
+        />
+        <div
+          className="col-3"
+        >
+          <button
+            className="btn rounded-0 button-right submit"
+            type="button"
+          >
+            SUBMIT
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      className="col-md-4"
+    >
+      <div
+        className="feature"
+      >
+        <img
+          src=""
+        />
+        <h5
+          align="left"
+        >
+          Address
+        </h5>
+        <p
+          align="left"
+        >
+          1234 Divi St., #1000, San Francisco, CA 29362
+        </p>
+      </div>
+      <div
+        className="feature"
+      >
+        <img
+          src=""
+        />
+        <h5
+          align="left"
+        >
+          Phone
+        </h5>
+        <p
+          align="left"
+        >
+          (346) 234 5675
+        </p>
+      </div>
+      <div
+        className="feature"
+      >
+        <img
+          src=""
+        />
+        <h5
+          align="left"
+        >
+          Email
+        </h5>
+        <p
+          align="left"
+        >
+          info@divelectric.com
+        </p>
+      </div>
+    </div>
+  </div>
+  <nav
+    className="navbar align-items-center navbar navbar-expand navbar-dark bg-dark"
+  >
+    <div
+      className="nav col-md-8 mx-4 author-mark navbar-nav"
+      onKeyDown={[Function]}
+    >
+      <div
+        className="text-white"
+      >
+        Designed by ... | Powered by ... 
+      </div>
+    </div>
+    <div
+      className="col-md-3 justify-content-end"
+    >
+      <ul
+        className="nav"
+      >
+        <li
+          className="nav-item"
+        >
+          <a
+            className="nav-link active"
+            href="#"
+          >
+            Meta
+          </a>
+        </li>
+        <li
+          className="nav-item"
+        >
+          <a
+            className="nav-link active"
+            href="#"
+          >
+            Twitter
+          </a>
+        </li>
+        <li
+          className="nav-item"
+        >
+          <a
+            className="nav-link active"
+            href="#"
+          >
+            RSS
+          </a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+</div>
+`;

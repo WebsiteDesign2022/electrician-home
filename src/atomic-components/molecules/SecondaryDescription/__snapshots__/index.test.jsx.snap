@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SecondaryDescription renders SecondaryDescription with text and matches snapshot 1`] = `
+<p
+  align="left"
+  className="text-black"
+>
+  secondary-description-text
+</p>
+`;
+
+exports[`SecondaryDescription renders SecondaryDescription without text and matches snapshot 1`] = `
+<p
+  align="left"
+  className="text-black"
+/>
+`;

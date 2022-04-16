@@ -1,0 +1,112 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TopBar renders TopBar 1`] = `
+<nav
+  className="navbar navbar-expand navbar-light bg-light"
+>
+  <div
+    className=".navbar-expand-lm container"
+  >
+    <span
+      className="px-4  navbar-brand"
+    >
+      Electrician Home
+    </span>
+    <button
+      aria-controls="navbarNav"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+      className="navbar-toggler"
+      data-target="#navbarNav"
+      data-toggle="collapse"
+      type="button"
+    >
+      <span
+        className="navbar-toggler-icon"
+      />
+    </button>
+    <div
+      className="collapse navbar-collapse"
+      id="navbarNav"
+    >
+      <div
+        className="justify-content-end navbar-expand-md navbar-nav"
+        onKeyDown={[Function]}
+      >
+        <a
+          className="nav-link"
+          data-rr-ui-event-key="#home"
+          disabled={false}
+          href="#home"
+          onClick={[Function]}
+        >
+          Home
+        </a>
+        <a
+          className="nav-link"
+          data-rr-ui-event-key="#landing"
+          disabled={false}
+          href="#landing"
+          onClick={[Function]}
+        >
+          Landing
+        </a>
+        <a
+          className="nav-link"
+          data-rr-ui-event-key="#service"
+          disabled={false}
+          href="#service"
+          onClick={[Function]}
+        >
+          Service
+        </a>
+        <a
+          className="nav-link"
+          data-rr-ui-event-key="#about"
+          disabled={false}
+          href="#about"
+          onClick={[Function]}
+        >
+          About
+        </a>
+        <a
+          className="nav-link"
+          data-rr-ui-event-key="#contact"
+          disabled={false}
+          href="#contact"
+          onClick={[Function]}
+        >
+          Contact
+        </a>
+        <a
+          className="nav-link"
+          data-rr-ui-event-key="#services"
+          disabled={false}
+          href="#services"
+          onClick={[Function]}
+        >
+          Services
+        </a>
+        <a
+          className="nav-link"
+          data-rr-ui-event-key="#project"
+          disabled={false}
+          href="#project"
+          onClick={[Function]}
+        >
+          Project
+        </a>
+        <a
+          className="nav-link"
+          data-rr-ui-event-key="#portfolio"
+          disabled={false}
+          href="#portfolio"
+          onClick={[Function]}
+        >
+          Portfolio
+        </a>
+      </div>
+    </div>
+  </div>
+</nav>
+`;

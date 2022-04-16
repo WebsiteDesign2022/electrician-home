@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BarBrand renders BarBrand 1`] = `
+<span
+  className="px-4  navbar-brand"
+>
+  author mark
+</span>
+`;

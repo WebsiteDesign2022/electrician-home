@@ -1,0 +1,15 @@
+.contact-us {
+    background-image: linear-gradient(to right, grey, darkgrey);
+    padding: 64px;
+}
+
+.form-control, .contact-input {
+    border-radius: 0px;
+    margin-bottom: 12px;
+}
+
+.btn.submit {
+    color: white;
+    background-color: orange;
+    box-shadow: 10px 10px darkgrey;
+}

@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BarButton renders BarButton 1`] = `
+<div
+  className="justify-content-end navbar-expand-md nav"
+  onKeyDown={[Function]}
+>
+  <a
+    className="nav-link"
+    data-rr-ui-event-key="#home"
+    disabled={false}
+    href="#home"
+    onClick={[Function]}
+  >
+    Home
+  </a>
+  <a
+    className="nav-link"
+    data-rr-ui-event-key="#landing"
+    disabled={false}
+    href="#landing"
+    onClick={[Function]}
+  >
+    Landing
+  </a>
+  <a
+    className="nav-link"
+    data-rr-ui-event-key="#service"
+    disabled={false}
+    href="#service"
+    onClick={[Function]}
+  >
+    Service
+  </a>
+  <a
+    className="nav-link"
+    data-rr-ui-event-key="#about"
+    disabled={false}
+    href="#about"
+    onClick={[Function]}
+  >
+    About
+  </a>
+  <a
+    className="nav-link"
+    data-rr-ui-event-key="#contact"
+    disabled={false}
+    href="#contact"
+    onClick={[Function]}
+  >
+    Contact
+  </a>
+  <a
+    className="nav-link"
+    data-rr-ui-event-key="#services"
+    disabled={false}
+    href="#services"
+    onClick={[Function]}
+  >
+    Services
+  </a>
+  <a
+    className="nav-link"
+    data-rr-ui-event-key="#project"
+    disabled={false}
+    href="#project"
+    onClick={[Function]}
+  >
+    Project
+  </a>
+  <a
+    className="nav-link"
+    data-rr-ui-event-key="#portfolio"
+    disabled={false}
+    href="#portfolio"
+    onClick={[Function]}
+  >
+    Portfolio
+  </a>
+</div>
+`;

@@ -3,7 +3,7 @@ import React from 'react';
 import PageTemplate from './PageTemplate';
 
 export default {
-  title: 'Electrician-Home/Page',
+  title: 'Electrician-Home/templates/PageTemplate',
   component: PageTemplate,
   parameters: {
     // More on Story layout: https://storybook.js.org/docs/react/configure/story-layout

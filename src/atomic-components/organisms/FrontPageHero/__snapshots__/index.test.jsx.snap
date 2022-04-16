@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FrontPageHero renders FrontPageHero 1`] = `
+<div
+  className="col-xxl-8 px-4 py-5 bg-dark"
+>
+  <div
+    className="row flex-lg-row-reverse align-items-center g-5 py-5"
+  >
+    <div
+      className="col-10 col-sm-8 col-lg-6"
+    >
+      <img
+        alt="Bootstrap Themes"
+        className="d-block mx-lg-auto img-fluid"
+        height="500"
+        loading="lazy"
+        src="bootstrap-themes.png"
+        width="700"
+      />
+    </div>
+    <div
+      className="col-lg-6 justify-content-left"
+    >
+      <div
+        className="arrow-top-left-orange"
+      />
+      <h1
+        className="display-5 lh-1 mb-3 text-light"
+      >
+        Electrical Contractor
+      </h1>
+      <h1
+        className="display-5 fw-bold lh-1 mb-3 text-light"
+      >
+        Licensed & Insured
+      </h1>
+      <div
+        className="d-grid gap-2 d-md-flex justify-content-md-start"
+      >
+        <button
+          className="btn btn-primary btn-lg px-10 me-md-2 rounded-0"
+          id="box-shadow-button-top-left"
+          type="button"
+        >
+          ABOUT US
+        </button>
+        <button
+          className="btn btn-light text-primary btn-lg px-4 rounded-0 box-shadow-bottom-right"
+          type="button"
+        >
+          CONTACT US
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

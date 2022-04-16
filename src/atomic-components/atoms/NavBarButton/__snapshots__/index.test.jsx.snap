@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NavBarButton renders NavBarButton 1`] = `
+<a
+  className="nav-link"
+  href="#"
+  onClick={[Function]}
+  onKeyDown={[Function]}
+  role="button"
+  tabIndex={0}
+/>
+`;

@@ -1,15 +1,14 @@
-import logo from './logo.svg';
+import React from 'react';
+import HomePage from './atomic-components/HomePage';
 import './App.css';
-import HomePage from './atomic-components/page/HomePage';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
-function App() {
-  return (
-    <div className="App">
+const App = () => (
+  <main>
 
-      <HomePage />
-    
-    </div>
-  );
-}
+    <HomePage />
+  
+  </main>
+);
 
 export default App;

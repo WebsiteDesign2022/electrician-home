@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AboutUs renders AboutUs correctly 1`] = `
+<div
+  className="col-xxl-8 px-4 py-5 about-us"
+>
+  <div
+    className="row flex-lg-row align-items-left g-5 py-5"
+  >
+    <div
+      className="col-lg-8"
+    >
+      <div>
+        <div
+          className="arrow-top-left-black"
+        />
+        <h1
+          align="left"
+          className="display-5 lh-1 mb-3 justify-content-end"
+        >
+          About Us & Why We are
+        </h1>
+        <h1
+          align="left"
+          className="display-5 fw-bold lh-1 mb-3 align-content-start justify-content-end"
+        >
+          The Best For the Job
+        </h1>
+      </div>
+      <p
+        align="left"
+        className="text-black"
+      >
+        Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus suscipit tortor eget felis porttitor volutpat. Donec rutrum congue leo eget malesuada. Nulla quis lorem ut libero malesuada feugiat. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. 
+      </p>
+    </div>
+    <div
+      className="col-lg-12"
+    >
+      <div
+        className="d-grid gap-2 d-md-flex justify-content-end"
+      >
+        <button
+          className="btn btn-dark btn-lg px-4 box-shadow-bottom rounded-0"
+          type="button"
+        >
+          More about Us →
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
